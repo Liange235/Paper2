@@ -8,7 +8,7 @@ Code, models and data for the paper ["DPLS-MSOM Modeling for Visual Industrial F
 
 # Supporting information
 The original plot results are upload as the zip file to the Google Drive
-(https://drive.google.com/file/d/12T6anK7n5QOeA0FAnMvlEHUR9fKrLc21/view?usp=drive_link)
+(https://drive.google.com/file/d/12Y52VRNGkmom7AqcGGfe3Ztqe-POHxW_/view?usp=sharing)
 
 We have also [released a dataset] in the folder Data for researchers to study their behaviors.
 
